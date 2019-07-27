@@ -1,0 +1,5 @@
+print("Hola necesito la altura")
+altura = int(input())
+print ("Hola necesito la base por favor")
+base = int(input())
+print (altura * base / 2)
